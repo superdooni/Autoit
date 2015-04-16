@@ -1,3 +1,0 @@
-#include<IE.au3>
-
-run("notepad")
